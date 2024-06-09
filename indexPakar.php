@@ -166,6 +166,7 @@ $solusi = mysqli_fetch_assoc($jumlahSolusi);
                     <?php if($_SESSION['role'] == 0) {
                         echo'<th>Aksi</th>';
                     }?>
+                        <th>Aksi</th>
                         <th>Nama</th>
                         <th>Email</th>
                         <th>Alamat</th>
