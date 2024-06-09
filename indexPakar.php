@@ -166,12 +166,10 @@ $solusi = mysqli_fetch_assoc($jumlahSolusi);
                     <?php if($_SESSION['role'] == 0) {
                         echo'<th>Aksi</th>';
                     }?>
-                        <th>Aksi</th>
                         <th>Nama</th>
                         <th>Email</th>
                         <th>Alamat</th>
                         <th>Tgl Lahir</th>
-                        <th>Username</th>
                     </tr>
                 </thead>
             <tbody>
@@ -185,7 +183,6 @@ $solusi = mysqli_fetch_assoc($jumlahSolusi);
                     <td><?= $data['email']; ?></td>
                     <td><?= $data['alamat']; ?></td>
                     <td><?= $data['tgl_lahir']; ?></td>
-                    <td><?= $data['nama']; ?></td>
                 </tr>
                 <?php } ?>
             </tbody>

@@ -114,8 +114,8 @@ $gejala = mysqli_query($koneksi, "SELECT * FROM gejala");
                         if($_SESSION['id_gejala'] > 16) {
                         
                         $Kwashiorkor = array(1,2,3,4,5,6,7,8,9);
-                        $Maramus = array(10,11,12);
-                        $Stunting = array(13,14,15,16);
+                        $Maramus = array(2,4,9,10,11,12);
+                        $Stunting = array(9,7,13,14,15,16);
                         $nilai = 0;
                         foreach ($persentase as $value) {
                             if (in_array($value, $Kwashiorkor)) {
