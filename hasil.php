@@ -26,7 +26,7 @@ $gejala = mysqli_query($koneksi, "SELECT * FROM gejala");
     href="https://fonts.googleapis.com/css?family=Poppins:300,400,700&display=swap"
     rel="stylesheet"/>
     <link rel="stylesheet" href="custom.css" />
-    <title>Ayo Cek Stunting!</title>
+    <title>Stop Stunting!</title>
 </head>
 <body>
     <nav class="navbar py-2 navbar-expand-lg navbar-light">

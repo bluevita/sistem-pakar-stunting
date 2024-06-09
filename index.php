@@ -16,7 +16,7 @@ include 'function.php';
       href="https://fonts.googleapis.com/css?family=Poppins:300,400,700&display=swap"
       rel="stylesheet"/>
     <link rel="stylesheet" href="custom.css" />
-    <title>Ayo Cek Stunting!</title>
+    <title>Stop Stunting!</title>
   </head>
   <body>
     <nav class="navbar py-2 navbar-expand-lg navbar-light">
@@ -95,9 +95,9 @@ include 'function.php';
       <div class="container">
         <div class="row">
           <div class="col align-self-center">
-            <h1 class="mb-4">Ayo Cek Stunting!</h1>
+            <h1 class="mb-4">Stop Stunting!</h1>
             <p class="mb-4">
-            Ayo Cek Stunting! adalah sebuah platform berbasis web yang menggunakan teknologi Sistem Pakar. Dengan memanfaatkan sistem ini, pengguna dapat mengetahui atau memeriksa kemungkinan stunting hanya dengan menjawab serangkaian pertanyaan dari sistem. Setelah menjawab pertanyaan-pertanyaan tersebut, pengguna akan dapat melihat hasil tes yang direpresentasikan dalam bentuk persentase.
+            Stop Stunting! adalah sebuah platform berbasis web yang menggunakan teknologi Sistem Pakar. Dengan memanfaatkan sistem ini, pengguna dapat mengetahui atau memeriksa kemungkinan stunting hanya dengan menjawab serangkaian pertanyaan dari sistem. Setelah menjawab pertanyaan-pertanyaan tersebut, pengguna akan dapat melihat hasil tes yang direpresentasikan dalam bentuk persentase.
             </p>
             <a class="btn btn-primary" href="register.php" role="button">Ayo Mulai!</a>
           </div>
@@ -111,7 +111,7 @@ include 'function.php';
     <section id="alur">
       <!--Content2-->
       <div id="konten2" class="container konten">
-        <h2 style="font-weight: bold;text-align: center;">Alur Kerja Sistem Pakar Ayo Cek Stunting!</h2>
+        <h2 style="font-weight: bold;text-align: center;">Alur Kerja Sistem Pakar Stop Stunting!</h2>
         <div class="card-deck">
           <div class="card">
             <h5 class="card-title">Login</h5>
